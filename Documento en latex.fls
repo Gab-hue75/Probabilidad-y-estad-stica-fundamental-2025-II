@@ -1,0 +1,47 @@
+PWD c:\Users\gaboo_v39m2tw\Documents\GitHub\Probabilidad-y-estad-stica-fundamental-2025-II
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\gaboo_v39m2tw\Documents\GitHub\Probabilidad-y-estad-stica-fundamental-2025-II\Documento en latex.tex
+OUTPUT Documento en latex.log
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT .\Documento en latex.aux
+INPUT .\Documento en latex.aux
+INPUT Documento en latex.aux
+OUTPUT Documento en latex.aux
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT Documento en latex.pdf
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT Documento en latex.aux
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\gaboo_v39m2tw\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
